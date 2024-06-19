@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.chatbox {
+  padding:20px;
+  white-space: pre-wrap;
+}
